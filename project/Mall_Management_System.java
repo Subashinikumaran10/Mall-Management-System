@@ -2284,7 +2284,7 @@ public class Mall_Management_System {
 			System.out.println(CYAN_BACKGROUND_BRIGHT + "CHOOSING CHOICE SHOPPING....................     " + RESET);
 			System.out.println();
 			System.out.println(PURPLE_BOLD_BRIGHT
-					+ "CHOOSE 1- Food_shop \nCHOOSE 2- Dresses_shop \nCHOOSE 3- Slippers_shop \nCHOOSE 4- Route \nCHOOSE 5- Offering"
+					+ "CHOOSE 1- Food_shop \nCHOOSE 2- Dresses_shop \nCHOOSE 3- FootWear_shop \nCHOOSE 4- Route \nCHOOSE 5- Offering"
 					+ RESET);
 			Find_shopes = sc.nextInt();
 
